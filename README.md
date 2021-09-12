@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on Venus
 - 🌱 I’m currently learning AD、AV/EDR Evasion、.NET
 -----
+### 知识星球
+<img src="https://images-1258433570.cos.ap-beijing.myqcloud.com/images/20210912184747.png" width="400"> 
 
 <!--
 **evilashz/evilashz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
