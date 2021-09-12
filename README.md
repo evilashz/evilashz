@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there this is evilash👋
+
+- 🔭 I’m currently working on Venus
+- 🌱 I’m currently learning AD、AV/EDR Evasion、.NET
+-----
 
 <!--
 **evilashz/evilashz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
