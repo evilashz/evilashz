@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on Beijing
 - 🌱 I’m currently learning AD、AV/EDR Evasion、.NET
 -----
-### 微信公众号
-<img src="https://images-1258433570.cos.ap-beijing.myqcloud.com/images/20211031134107.png" width="400"> 
+微信公众号：黑客在思考
 
 <!--
 **evilashz/evilashz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
