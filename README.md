@@ -1,7 +1,6 @@
-### Hi there this is evilash👋
 
-- 🔭 I’m currently working on Beijing
-- 🌱 I’m currently learning AD、AV/EDR Evasion、.NET
+- 🔭 I’m currently working at Beijing
+- 🌱 Learning AD、AV/EDR Evasion、.NET
 -----
 微信公众号：黑客在思考
 
