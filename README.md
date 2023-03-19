@@ -2,7 +2,7 @@
 - 🔭 I’m currently working at Beijing
 - 🌱 Learning AD、AV/EDR Evasion、.NET
 -----
-微信公众号：黑客在思考
+Mail：olo#lcx.cc
 
 <!--
 **evilashz/evilashz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
