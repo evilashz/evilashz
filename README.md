@@ -2,15 +2,15 @@
 - 🔭 I’m currently working at Beijing
 - 🌱 Learning AD、AV/EDR Evasion、.NET
 -----
-⚠ 本人已不在乙方工作，不会参加HVV。
 
------
 ### 知识星球
 
 <img src="./海报.png" width="400">
 
 <!--
 **evilashz/evilashz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+⚠ 本人已不在乙方工作，不会参加HVV。
 
 Here are some ideas to get you started:
 
