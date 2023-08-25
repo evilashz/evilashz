@@ -7,8 +7,7 @@
 -----
 ### 知识星球
 
-![海报](https://github.com/evilashz/evilashz/assets/50722929/61bde760-68f3-40b9-bd34-8e8c62942d12)
-
+<img src="./海报.png" width="400">
 
 <!--
 **evilashz/evilashz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
