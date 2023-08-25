@@ -10,7 +10,8 @@
 <!--
 **evilashz/evilashz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-⚠ 本人已不在乙方工作，不会参加HVV。
+- ⚠ 本人已不在乙方工作，不会参加HVV。
+
 
 Here are some ideas to get you started:
 
