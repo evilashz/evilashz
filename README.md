@@ -1,6 +1,8 @@
 
-- 🔭 I’m currently working at Beijing
-- 🌱 Learning AD、AV/EDR Evasion、.NET
+- 10年安全老兵，丰富作战经验，专治疑难杂症
+- 退休正科级干部
+- 「黑客在思考和他的朋友们」球主
+- 🌱 学习方向： AD域、AV/EDR Evasion、.NET
 -----
 
 ### 知识星球
